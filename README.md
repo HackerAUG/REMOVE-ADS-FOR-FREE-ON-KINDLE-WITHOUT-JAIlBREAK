@@ -1,1 +1,1 @@
-# REMOVE-ADS-FOR-FREE-ON-KINDLE-WITHOUT-JAIlBREAK
+What you have to do, is click "veiw all ads" and then copy the ".assests" folder to your desktop, then copy the contents of the zip file to the folder on your desktop, then run "replace.bat", you won't see anything onscreen exept for a flash, maybe, then delete the ".assets" on your kindle, then move the ".assets" folder on your desktop into your kindle. safely eject and unplug your kindle, then click on the first ad, your kindle will show some text on the screen, then reboot, ads should be removed now!
